@@ -1,0 +1,13 @@
+{
+	"name": "Localization",
+	"version": "1.0.3",
+	"author": "CloudArcade",
+	"description": "Create and manage translation file for your site.",
+	"website": "https://cloudarcade.net",
+	"require_version": "1.4.5",
+	"tested_version": "1.4.5",
+	"last_update": "20/07/2022",
+	"type": "plugin",
+	"target": "admin",
+	"require_login": true
+}

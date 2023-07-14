@@ -1,0 +1,11 @@
+{
+	"name": "Arcade One",
+	"version": "1.0.3",
+	"author": "CloudArcade",
+	"description": "Premium theme",
+	"website": "https://cloudarcade.net",
+	"release_date": "11/05/2022",
+	"changelog": "Pretty url for search & js compatibility update",
+	"type":"theme",
+	"target_version": "1.4.2"
+}
